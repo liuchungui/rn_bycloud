@@ -1,0 +1,39 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lawyer">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:name="com.lawyer.MainApplication"
+      android:allowBackup="true"
+      android:label="@string/app_name"
+      android:icon="@mipmap/ic_launcher"
+      android:theme="@style/AppTheme">
+      <activity
+          android:name="com.lawyer.MainActivity"
+          android:label="@string/app_name"
+          android:configChanges="keyboard|keyboardHidden|orientation|screenSize">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+      </activity>
+      <activity
+        android:name="com.lawyer.WXEntryActivity"
+        android:label="@string/app_name"
+        android:exported="true"
+      />
+      <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+        <!-- ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.-->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="57071788e0f55a9c18000245" />
+        <meta-data
+            android:name="UMENG_MESSAGE_SECRET"
+            android:value="32bb6016789cf75057019f4e8e94d829" />
+    </application>
+
+</manifest>

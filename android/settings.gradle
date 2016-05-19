@@ -1,0 +1,19 @@
+rootProject.name = 'BYCloud_RN'
+
+include ':app'
+
+include ':RCTWeChat'
+project(':RCTWeChat').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-wechat/android')
+
+include ':react-native-fs'
+project(':react-native-fs').projectDir = new File(settingsDir, '../node_modules/react-native-fs/android')
+
+include ':react-native-android-intent'
+project(':react-native-android-intent').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-android-intent/android')
+
+include ':PushSDK'
+project(':PushSDK').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-umeng-sdk/android/PushSDK')
+include ':react-native-umeng-push'
+project(':react-native-umeng-push').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-umeng-push/android')
+include ':react-native-android-keyboard-adjust'
+project(':react-native-android-keyboard-adjust').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-android-keyboard-adjust/android')
