@@ -33,18 +33,6 @@ $ react-native run-android
 * 星星评分界面
 * 登陆页面的倒计时功能 
 
-
-###相关的一些界面
-![](http://ww3.sinaimg.cn/mw690/7746cd07jw1f40jopv26gj20k00zkmyh.jpg)
-
-![](http://ww4.sinaimg.cn/mw690/7746cd07jw1f40jp8q68ij20k00zkabo.jpg)
-
-![](http://ww2.sinaimg.cn/mw690/7746cd07jw1f40jplja8bj20k00zkdh2.jpg)
-
-![](http://ww4.sinaimg.cn/mw690/7746cd07jw1f40jq2ay7sj20k00zkwfd.jpg)
-
-![](http://ww3.sinaimg.cn/mw690/7746cd07jw1f40jqc0eezj20k00zkmxs.jpg)
-
 ###所使用到的组件
 [react-native-fs](https://github.com/johanneslumpe/react-native-fs)    
 [react-native-progress](https://github.com/oblador/react-native-progress)    
@@ -55,6 +43,17 @@ $ react-native run-android
 [react-native-umeng-push](https://github.com/liuchungui/react-native-umeng-push)        
 [react-native-rating-star](https://github.com/liuchungui/react-native-star-rating)        
 [react-native-android-intent](https://github.com/liuchungui/react-native-android-intent)        
-[react-native-android-keyboard-adjust](https://github.com/zubricky/react-native-android-keyboard-adjust)    
+[react-native-android-keyboard-adjust](https://github.com/zubricky/react-native-android-keyboard-adjust)   
+
+###相关的一些界面
+![](http://ww3.sinaimg.cn/large/7746cd07jw1f40jopv26gj20k00zkmyh.jpg)
+
+![](http://ww4.sinaimg.cn/large/7746cd07jw1f40jp8q68ij20k00zkabo.jpg)
+
+![](http://ww2.sinaimg.cn/large/7746cd07jw1f40jplja8bj20k00zkdh2.jpg)
+
+![](http://ww4.sinaimg.cn/large/7746cd07jw1f40jq2ay7sj20k00zkwfd.jpg)
+
+![](http://ww3.sinaimg.cn/large/7746cd07jw1f40jqc0eezj20k00zkmxs.jpg) 
 
 
