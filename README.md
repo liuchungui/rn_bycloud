@@ -35,15 +35,15 @@ $ react-native run-android
 
 
 ###相关的一些界面
-![](http://ww3.sinaimg.cn/large/7746cd07jw1f40jopv26gj20k00zkmyh.jpg)
+![](http://ww3.sinaimg.cn/mw690/7746cd07jw1f40jopv26gj20k00zkmyh.jpg)
 
-![](http://ww4.sinaimg.cn/large/7746cd07jw1f40jp8q68ij20k00zkabo.jpg)
+![](http://ww4.sinaimg.cn/mw690/7746cd07jw1f40jp8q68ij20k00zkabo.jpg)
 
-![](http://ww2.sinaimg.cn/large/7746cd07jw1f40jplja8bj20k00zkdh2.jpg)
+![](http://ww2.sinaimg.cn/mw690/7746cd07jw1f40jplja8bj20k00zkdh2.jpg)
 
-![](http://ww4.sinaimg.cn/large/7746cd07jw1f40jq2ay7sj20k00zkwfd.jpg)
+![](http://ww4.sinaimg.cn/mw690/7746cd07jw1f40jq2ay7sj20k00zkwfd.jpg)
 
-![](http://ww3.sinaimg.cn/large/7746cd07jw1f40jqc0eezj20k00zkmxs.jpg)
+![](http://ww3.sinaimg.cn/mw690/7746cd07jw1f40jqc0eezj20k00zkmxs.jpg)
 
 ###所使用到的组件
 [react-native-fs](https://github.com/johanneslumpe/react-native-fs)    
