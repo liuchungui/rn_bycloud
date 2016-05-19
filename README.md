@@ -22,6 +22,17 @@ $ react-native run-android
 账号：18688888888    
 验证码：123456
 
+###主要技术点
+* 时间轴界面 
+* 基于Fetch，对GET和POST请求简单封装
+* 微信分享    
+* 友盟推送    
+* 文件下载    
+* 借助第三方打开文件
+* 数字密码验证
+* 星星评分界面
+* 登陆页面的倒计时功能 
+
 
 ###相关的一些界面
 ![](http://ww3.sinaimg.cn/large/7746cd07jw1f40jopv26gj20k00zkmyh.jpg)
