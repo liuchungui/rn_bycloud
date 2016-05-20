@@ -46,14 +46,12 @@ $ react-native run-android
 [react-native-android-keyboard-adjust](https://github.com/zubricky/react-native-android-keyboard-adjust)   
 
 ###相关的一些界面
-![](http://ww3.sinaimg.cn/large/7746cd07jw1f40jopv26gj20k00zkmyh.jpg)
+<p align="center">
+  <img src="http://ww3.sinaimg.cn/mw690/7746cd07jw1f422b3md3pj20k00zkt9j.jpg" height=380 width = 200>
+  <img src="http://ww3.sinaimg.cn/mw690/7746cd07jw1f422alf1i9j20k00zkwfy.jpg" height=380 width = 200>
+  <img src="http://ww2.sinaimg.cn/mw690/7746cd07jw1f422bglg5wj20k00zkjsl.jpg" height=380 width = 200>
+  <img src="http://ww2.sinaimg.cn/mw690/7746cd07jw1f4228kk1utj20k00zk3zd.jpg" height=380 width = 200>
+</p>
 
-![](http://ww4.sinaimg.cn/large/7746cd07jw1f40jp8q68ij20k00zkabo.jpg)
-
-![](http://ww2.sinaimg.cn/large/7746cd07jw1f40jplja8bj20k00zkdh2.jpg)
-
-![](http://ww4.sinaimg.cn/large/7746cd07jw1f40jq2ay7sj20k00zkwfd.jpg)
-
-![](http://ww3.sinaimg.cn/large/7746cd07jw1f40jqc0eezj20k00zkmxs.jpg) 
 
 
