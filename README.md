@@ -49,7 +49,7 @@ $ react-native run-android
 <p align="center">
   <img src="http://ww3.sinaimg.cn/mw690/7746cd07jw1f422b3md3pj20k00zkt9j.jpg" height=380 width = 200>
   <img src="http://ww3.sinaimg.cn/mw690/7746cd07jw1f422alf1i9j20k00zkwfy.jpg" height=380 width = 200>
-  <img src="http://ww2.sinaimg.cn/mw690/7746cd07jw1f422bglg5wj20k00zkjsl.jpg" height=380 width = 200>
+  <img src="http://ww1.sinaimg.cn/large/7746cd07jw1f58sqkqe02j20k00zkgn0.jpg" height=380 width = 200>
   <img src="http://ww2.sinaimg.cn/mw690/7746cd07jw1f4228kk1utj20k00zk3zd.jpg" height=380 width = 200>
 </p>
 
